@@ -1,0 +1,3 @@
+pad_stud = ['0408Kasuu','0359terseer','0379aondoawase','0399chia','0432manasseh','0370kula','0362hembe','0378asaamoga','0385ikyenge','0410ikyenge','0461cathherine','0405ukor','0460asember','0384nyitamen','0373iorsalem','0390agbo','0398asawa','0369onah','0387uoove','0423aondowase','0401iorjaa','0367jacob','0360vandewuan','0368daniel','0388iorfa','0403tyohemba','0371bula','0391tortiu','0402tersoo','0361mbamanger','0376okorie','0422agee','0459ken','0386ato','0363kumaga','0393taryohol','0406timga','0380umaru','0400myangega','0431orsar','0404alibo','0407yongubee','0383terhile','0375kerekaa','0381ani','0374shaashie','0458awase','0402terna']
+pad_stud.sort()
+print (pad_stud)
